@@ -1,0 +1,20 @@
+[
+  {
+    "faceRectangle": {
+      "left": 298,
+      "top": 295,
+      "width": 338,
+      "height": 338
+    },
+    "scores": {
+      "anger": 0.000399321318,
+      "contempt": 0.0235245526,
+      "disgust": 0.000123232268,
+      "fear": 0.00000359106684,
+      "happiness": 0.603577137,
+      "neutral": 0.370745838,
+      "sadness": 0.00156399223,
+      "surprise": 0.00006234515
+    }
+  }
+]

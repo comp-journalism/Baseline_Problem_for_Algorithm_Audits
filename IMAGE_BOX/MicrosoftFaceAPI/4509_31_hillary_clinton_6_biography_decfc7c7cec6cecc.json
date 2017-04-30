@@ -1,0 +1,137 @@
+[
+  {
+    "faceId": "a3d6a015-ec9e-418f-b2ec-c3a5eede0576",
+    "faceRectangle": {
+      "width": 130,
+      "height": 130,
+      "left": 53,
+      "top": 92
+    },
+    "faceLandmarks": {
+      "pupilLeft": {
+        "x": 92.3,
+        "y": 128.5
+      },
+      "pupilRight": {
+        "x": 148.6,
+        "y": 124.6
+      },
+      "noseTip": {
+        "x": 108.1,
+        "y": 163.6
+      },
+      "mouthLeft": {
+        "x": 95.9,
+        "y": 190.1
+      },
+      "mouthRight": {
+        "x": 146.2,
+        "y": 185.6
+      },
+      "eyebrowLeftOuter": {
+        "x": 71.4,
+        "y": 115.3
+      },
+      "eyebrowLeftInner": {
+        "x": 101.6,
+        "y": 115.4
+      },
+      "eyeLeftOuter": {
+        "x": 83,
+        "y": 129.8
+      },
+      "eyeLeftTop": {
+        "x": 90.9,
+        "y": 124.3
+      },
+      "eyeLeftBottom": {
+        "x": 90.5,
+        "y": 132.4
+      },
+      "eyeLeftInner": {
+        "x": 99.2,
+        "y": 130
+      },
+      "eyebrowRightInner": {
+        "x": 124.4,
+        "y": 111.9
+      },
+      "eyebrowRightOuter": {
+        "x": 169.3,
+        "y": 113.3
+      },
+      "eyeRightInner": {
+        "x": 138.3,
+        "y": 126.7
+      },
+      "eyeRightTop": {
+        "x": 147.1,
+        "y": 120.8
+      },
+      "eyeRightBottom": {
+        "x": 147.8,
+        "y": 128.7
+      },
+      "eyeRightOuter": {
+        "x": 157.7,
+        "y": 125.5
+      },
+      "noseRootLeft": {
+        "x": 107.4,
+        "y": 130.3
+      },
+      "noseRootRight": {
+        "x": 121,
+        "y": 129.7
+      },
+      "noseLeftAlarTop": {
+        "x": 101.7,
+        "y": 151.8
+      },
+      "noseRightAlarTop": {
+        "x": 125.1,
+        "y": 151.5
+      },
+      "noseLeftAlarOutTip": {
+        "x": 97.7,
+        "y": 165.8
+      },
+      "noseRightAlarOutTip": {
+        "x": 132.5,
+        "y": 164
+      },
+      "upperLipTop": {
+        "x": 112.9,
+        "y": 184.8
+      },
+      "upperLipBottom": {
+        "x": 113.2,
+        "y": 189.6
+      },
+      "underLipTop": {
+        "x": 114,
+        "y": 191.4
+      },
+      "underLipBottom": {
+        "x": 114.5,
+        "y": 198.5
+      }
+    },
+    "faceAttributes": {
+      "age": 48.4,
+      "gender": "female",
+      "headPose": {
+        "roll": 0.1,
+        "yaw": -22.9,
+        "pitch": 0
+      },
+      "smile": 0.736,
+      "facialHair": {
+        "moustache": 0,
+        "beard": 0,
+        "sideburns": 0
+      },
+      "glasses": "NoGlasses"
+    }
+  }
+]

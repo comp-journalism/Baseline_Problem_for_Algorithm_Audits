@@ -1,4 +1,8 @@
 BASELINE/.ipynb_checkpoints
+BASELINE/donald_trump_image_universe/*
+BASELINE/hillary_clinton_image_universe/*
+BASELINE/hillary_clinton_unique_images/*
+
 IMAGE_BOX/image_box/*
 IMAGE_BOX/clinton/*
 IMAGE_BOX/trump/*

@@ -9,9 +9,11 @@ By [Jennifer A Stark](https://github.com/JAStark) and [Nick Diakopoulos](http://
 Data were collected automatically using a web scraper once per day using code based on [this](https://github.com/NikolaiT/GoogleScraper) project. Images were downloaded and related information such as the web link, collection datetime, the search term (e.g. Hillary Clinton, Donald Trump) etc were stored in a MySQL database housed on our AWS space which was then filtered and downloaded as a csv.
 
 ### Processed data
-Images were all fingerprinted (or hashed) to determine unique images, and count repetitions. A dataframe that includes a hash for each row is [here](https://github.com/comp-journalism/Basline_Problem_for_Algorithm_Audits/blob/master/Data/hashedDF.csv).
+Baseline image processing can be found in `BASELINE` directory, while data processing for `image box` images, found on the main Google search results page, are in `IMAGE_BOX`.
 
-#Requirements
+Analysis is divided up into analysing the images themselves for sentiment using the Microsoft APIs, and analysing the sources of the images (e.g. Business Insider, Breitbart, Salon).
+
+## Requirements
 If you use the Anaconda distribution, you're all set.
 
 * Python 3
@@ -24,10 +26,11 @@ If you use the Anaconda distribution, you're all set.
 * PIL
 * imagehash
 * argparse
+* GoogleScraper
 
 
-#Funding
+## Funding
 This project was funded by a grant from the Tow Center for Digital Journalism to study computational and data journalism in the context of algorithmic accountability reporting.
 
-#Feedback
+## Feedback
 Email Jennifer A Stark at starkja@umd.edu

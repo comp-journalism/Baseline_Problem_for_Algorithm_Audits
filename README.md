@@ -1,7 +1,6 @@
-#  ARTICLE TITLE
+#  "Using Baselines for Algorithm Audits" submitted to [European Data and Computational Journalism Conference, 2017](http://datajconf.com)
 
-#[The Baseline Problem for Algorithm Audits](https://www.LINK)
-By [Jennifer A Stark](https://github.com/JAStark) and [Nick Diakopoulos](http://www.nickdiakopoulos.com)
+## By [Jennifer A Stark](https://github.com/JAStark) and [Nick Diakopoulos](http://www.nickdiakopoulos.com)
 
 
 ## The Data
@@ -14,7 +13,6 @@ Baseline image processing can be found in `BASELINE` directory, while data proce
 Analysis is divided up into analysing the images themselves for sentiment using the Microsoft APIs, and analysing the sources of the images (e.g. Business Insider, Breitbart, Salon).
 
 ## Requirements
-If you use the Anaconda distribution, you're all set.
 
 * Python 3
 * ipython notebook / Jupyter

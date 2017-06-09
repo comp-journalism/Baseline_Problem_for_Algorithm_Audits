@@ -3,6 +3,7 @@ BASELINE/donald_trump_image_universe/*
 BASELINE/hillary_clinton_image_universe/*
 BASELINE/hillary_clinton_unique_images/*
 BASELINE/allsides_data.json
+BASELINE/unrated_newssources.csv
 
 IMAGE_BOX/.ipynb_chechpoints
 IMAGE_BOX/clinton/*

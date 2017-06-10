@@ -10,7 +10,7 @@ Data were collected automatically using a web scraper once per day using code ba
 ### Processed data
 Baseline image processing can be found in `BASELINE` directory, while data processing for `image box` images, found on the main Google search results page, are in `IMAGE_BOX`.
 
-Analysis is divided up into analysing the images themselves for sentiment using the Microsoft APIs, and analysing the sources of the images (e.g. Business Insider, Breitbart, Salon).
+Analysis is divided up into analysing the images themselves for sentiment using the Microsoft APIs, and analysing the sources of the images (e.g. Business Insider, Breitbart, Salon). News source main analysis can be found in `Statistics.ipynb` in the main directory.
 
 ## Requirements
 

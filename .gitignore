@@ -8,3 +8,5 @@ BASELINE/unrated_newssources.csv
 IMAGE_BOX/.ipynb_chechpoints
 IMAGE_BOX/clinton/*
 IMAGE_BOX/trump/*
+
+.ipynb_checkpoints
